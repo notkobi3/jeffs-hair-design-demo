@@ -1,5 +1,5 @@
 const animatedBlocks = document.querySelectorAll(
-  ".hero-copy, .quick-card, .section-head, .card, .photo-card, .split-card, .contact-wrap"
+  ".hero-copy, .hero-details, .section-head, .service-card, .photo-card, .info-card, .contact-wrap"
 );
 
 animatedBlocks.forEach((el) => {
